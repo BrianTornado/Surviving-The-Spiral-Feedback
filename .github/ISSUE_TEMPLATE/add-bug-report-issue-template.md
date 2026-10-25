@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Add Bug Report issue template
+about: Report unexpected behavior or problems in Surviving The Spiral.
 title: "[Bug]"
 labels: Bug
 assignees: BrianTornado
