@@ -2,7 +2,7 @@
 name: Add Bug Report issue template
 about: Report unexpected behavior or problems in Surviving The Spiral.
 title: "[Bug]"
-labels: Bug, Crash
+labels: Bug
 assignees: BrianTornado
 type: Bug
 
